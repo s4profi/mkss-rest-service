@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../L07_Spring_Boot_order-warehouse/OrderWarehouse.iml" filepath="$PROJECT_DIR$/../L07_Spring_Boot_order-warehouse/OrderWarehouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/events/events.iml" filepath="$PROJECT_DIR$/events/events.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mkss-rest-service.iml" filepath="$PROJECT_DIR$/mkss-rest-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06_Spring_Boot_REST_Service_Luehring_Mohrmann_Ha/rest-service.iml" filepath="$PROJECT_DIR$/L06_Spring_Boot_REST_Service_Luehring_Mohrmann_Ha/rest-service.iml" />
+    </modules>
+  </component>
+</project>
